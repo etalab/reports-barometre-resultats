@@ -1,0 +1,397 @@
+mesure,indicateur,id_indicateur,date,valeur,unite,maille
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,2018-12-31,110279.0,bénéficiaires,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2017-06-30,14.0,maisons de santé,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2017-12-31,15.0,maisons de santé,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2018-06-30,16.0,maisons de santé,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2018-12-31,19.0,maisons de santé,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2019-06-30,19.0,maisons de santé,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2019-12-31,22.0,maisons de santé,0 - departemental
+Doubler le nombre de maisons de santé,Nombre de maisons de santé pluri-professionnelles,nb-maisons-sante,2020-06-30,24.0,maisons de santé,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2018-10-31,2.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2018-11-30,1.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2018-12-31,6.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-01-31,52.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-02-28,55.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-03-31,93.0,contrôles dans l'année,0 - departemental
+"Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,2020-09-30,70.0,% des classes,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-04-30,75.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-06-30,116.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-07-31,94.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-08-31,90.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-09-30,84.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-10-31,103.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-11-30,97.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-12-31,72.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-01-31,154.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-02-29,0.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-03-31,0.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-04-30,0.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-05-31,0.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-06-30,24.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2019-05-31,100.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-07-31,0.0,contrôles dans l'année,0 - departemental
+"Limiter les classes à 24 en grande section, CP, CE1","Part des classes de GS, CP ou CE1 ayant un effectif inférieur ou égal à 24 élèves",tx-classes-cp-ce1,2019-09-30,66.0,% des classes,0 - departemental
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,2020-03-31,3046.0,pères dans l'année,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2020-03-31,1099.0,primes et bonus,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2020-06-30,607.0,primes et bonus,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2020-09-30,2477.0,primes et bonus,0 - departemental
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,2017-12-31,769.0,kilomètres,0 - departemental
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,2018-12-31,791.0,kilomètres,0 - departemental
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,2019-12-31,806.0,kilomètres,0 - departemental
+Déployer le plan vélo,Kilomètres d'aménagements cyclables sécurisés,km-amenagement-cyclables-securises,2020-09-30,896.0,kilomètres,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-01-31,5.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-02-29,12.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-03-31,12.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-04-30,12.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-05-31,12.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-06-30,12.0,labellisations,0 - departemental
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,2020-06-30,2297.0,pères dans l'année,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-07-31,12.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-09-30,17.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-10-31,17.0,labellisations,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-11-30,17.0,labellisations,0 - departemental
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,2017-12-31,10.0,%,0 - departemental
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,2018-12-31,60.0,%,0 - departemental
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,2019-12-31,80.0,%,0 - departemental
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2017-12-31,7950.0,contrats,0 - departemental
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2018-12-31,7778.0,contrats,0 - departemental
+Développer l’apprentissage,Nombre de contrats d’apprentissage,nombre-contrats-apprentissage,2019-12-31,11639.0,contrats,0 - departemental
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,2019-03-31,2996.0,pères dans l'année,0 - departemental
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,2019-06-30,2793.0,pères dans l'année,0 - departemental
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,2019-09-30,3647.0,pères dans l'année,0 - departemental
+Allonger le congé paternité pour un meilleur développement de l’enfant,Nombre de pères / conjoints prenant un congé de paternité et d’accueil de l’enfant,nb-peres-conge-paternite,2019-12-31,3073.0,pères dans l'année,0 - departemental
+Déployer une offre France Services dans tous les territoires ,Nombre de labellisations (atteinte de l'objectif fixé),nb-labellisations-france-services,2020-08-31,12.0,labellisations,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-08-31,10.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-09-30,107.0,contrôles dans l'année,0 - departemental
+Lutter contre les atteintes aux principes républicains,Nombre de contrôles réalisés par les plans de lutte contre la radicalisation dans les quartiers (PLR-Q) et les cellules départementales de lutte contre l'islamisme et le repli communautaire (CLIR),nb-controles-clir,2020-10-31,158.0,contrôles dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-08-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-09-30,6.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-10-31,6.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-11-30,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-12-31,6.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-01-31,7.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-02-28,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-03-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-04-30,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-05-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-06-30,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-07-31,7.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-08-31,9.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-07-31,2.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-09-30,4.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-11-30,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-12-31,7.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-01-31,1.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-02-29,1.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-03-31,2.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-04-30,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-05-31,2.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-06-30,2.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-07-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-08-31,7.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-09-30,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2020-10-31,3.0,morts dans l'année,0 - departemental
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faible émission,nb-habitants-zfe,2020-12-31,799510.0,habitants,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2019-10-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-06-30,9.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-05-31,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-04-30,7.0,morts dans l'année,0 - departemental
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2020-08-31,0.0,amendes dressées dans l'année,0 - departemental
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2020-09-30,234.0,amendes dressées dans l'année,0 - departemental
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2020-10-31,312.0,amendes dressées dans l'année,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,2017-09-30,256.0,unités,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,2018-09-30,272.0,unités,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,2019-09-30,269.0,unités,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,2017-09-30,2.0,classes,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,2018-09-30,3.0,classes,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,2019-09-30,3.0,classes,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,Nombre de classes adaptées à la scolarisation des enfants autistes (UEMA/UEEA) à l’école maternelle et à l’école élémentaire,nombre-creation-ueea,2020-09-30,4.0,classes,0 - departemental
+"Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,2019-10-31,100.0,% des classes,0 - departemental
+"Dédoubler les classes en REP (grande section, CP, CE1)",Part des classes de CP et CE1 en REP dédoublées,tx-classes-cp-ce1-rep,2020-10-31,100.0,% des classes,0 - departemental
+"Dédoubler les classes en REP (grande section, CP, CE1)",Part de grande section en REP dédoublées,tx-gs-rep,2019-11-30,0.0,% des classes,0 - departemental
+"Dédoubler les classes en REP (grande section, CP, CE1)",Part de grande section en REP dédoublées,tx-gs-rep,2020-11-30,0.0,% des classes,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-01-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-02-28,8.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-03-31,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-04-30,5.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-05-31,7.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-06-30,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-07-31,6.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-08-31,4.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-09-30,4.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-10-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-11-30,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2017-12-31,8.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-01-31,3.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-02-28,6.0,morts dans l'année,0 - departemental
+Réduire la mortalité sur les routes,Nombre de morts sur les routes,nb-morts-routes,2018-03-31,3.0,morts dans l'année,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2019-12-31,1993.0,primes et bonus,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2019-09-30,2342.0,primes et bonus,0 - departemental
+Offrir une scolarisation inclusive à tous les enfants handicapés,"Nombre d’unités locales d’inclusion scolaires (ULIS) pour les élèves en situation de handicap à l’école maternelle, à l’école élémentaire, au collège et au lycée",nombre-creation-ulis,2020-09-30,279.0,unités,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2019-03-31,1903.0,primes et bonus,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-05-31,2422.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-06-30,5562.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-07-31,5859.0,recrutements dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-01-31,88792.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-02-29,79708.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-03-31,79012.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-04-30,84572.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-05-31,92429.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-06-30,79825.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-07-31,74979.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-08-31,72446.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-09-30,77455.0,heures de patrouille dans l'année,0 - departemental
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2020-10-31,81366.0,heures de patrouille dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-04-30,1243.0,recrutements dans l'année,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2017-12-31,59.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2018-06-30,64.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2018-09-30,66.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2018-12-31,69.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2019-03-31,71.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2019-06-30,74.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2019-09-30,78.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2019-12-31,69.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2020-03-31,75.0,% de déploiement,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2020-06-30,76.0,% de déploiement,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-06-30,119.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-07-31,154.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-08-31,94.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-09-30,126.0,personnes dans l'année,0 - departemental
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2018-03-31,62.0,% de déploiement,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-10-31,211.0,personnes dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-03-31,4367.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-01-31,7151.0,recrutements dans l'année,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2019-06-30,2233.0,primes et bonus,0 - departemental
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,2019-12-31,112480.0,bénéficiaires,0 - departemental
+Supprimer la taxe d’habitation sur les résidences principales,Nombre de bénéficiaires totalement exonérés,nb-beneficiaires-suppression-taxe-habitation,2020-12-31,577805.0,bénéficiaires,0 - departemental
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,2017-10-31,47.0,% de réussite,0 - departemental
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,2019-10-31,48.0,% de réussite,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-01-31,6027.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-02-28,4925.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-03-31,5377.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-04-30,5265.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-05-31,4796.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-06-30,5304.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-07-31,5963.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-08-31,6877.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2020-02-29,5734.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-09-30,21218.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-11-30,7111.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-12-31,4687.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-01-31,6316.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-02-28,5001.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-03-31,5709.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-04-30,5831.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-05-31,5045.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-06-30,5212.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-07-31,6634.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-08-31,7064.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-09-30,24441.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-10-31,11022.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-11-30,7660.0,recrutements dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2018-10-31,11396.0,recrutements dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-11-30,171.0,personnes dans l'année,0 - departemental
+Plan #1jeune1solution,Nombre de recrutements de jeunes,nombre-recrutements-jeunes,2019-12-31,5371.0,recrutements dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-01-31,167.0,personnes dans l'année,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-03-31,10.04,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-04-30,14.47,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-05-31,9.15,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-06-30,11.42,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-07-31,10.14,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-08-31,11.37,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-09-30,11.41,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-10-31,7.33,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-01-31,11.34,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-02-29,9.52,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-03-31,9.22,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-04-30,6.05,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-05-31,9.09,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-07-31,8.45,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-08-31,9.83,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-09-30,9.57,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-10-31,9.68,%,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2017-06-30,80000.0,habitants,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2017-12-31,80000.0,habitants,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2018-06-30,80000.0,habitants,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2018-12-31,80000.0,habitants,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2019-06-30,80000.0,habitants,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2019-12-31,80000.0,habitants,0 - departemental
+Mettre en œuvre la sortie du plastique à usage unique et lutter contre le gaspillage,Nombre de Français qui peuvent mettre tous les emballages dans le bac jaune,nb-francais-emballages-bac-jaune,2020-06-30,1450000.0,habitants,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2018-03-31,510.0,primes et bonus,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2018-06-30,1392.0,primes et bonus,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2018-09-30,1637.0,primes et bonus,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2018-12-31,271.0,personnes dans l'année,0 - departemental
+Verdir le parc automobile,Nombre de primes à la conversion et de bonus écologiques,nb-primes-conversion,2018-12-31,1775.0,primes et bonus,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-02-29,11.66,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2020-01-31,9.17,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins optiques,tx-equipements-optique,2020-06-30,8.76,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-11-30,9.24,%,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-02-28,93.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-03-31,147.0,personnes dans l'année,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-12-31,7.91,%,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-04-30,114.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-05-31,154.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-06-30,128.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-07-31,191.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-08-31,64.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-09-30,88.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-11-30,167.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-12-31,264.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-01-31,110.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-02-29,112.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-03-31,35.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-04-30,11.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2019-10-31,165.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-05-31,73.0,personnes dans l'année,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-10-31,11.47,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-09-30,11.0,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-08-31,10.44,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-07-31,10.39,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-06-30,12.57,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-04-30,14.17,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-05-31,11.94,%,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-09-30,150.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-08-31,151.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-07-31,91.0,personnes dans l'année,0 - departemental
+Offrir un logement aux sans-abris : Logement d’abord,Nombre de personnes sans abri ou en hébergement ayant obtenu un logement social,logement-sans-domicile-hebergement-urgence,2020-06-30,103.0,personnes dans l'année,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-03-31,13.74,%,0 - departemental
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-02-28,10.84,%,1 - regional
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins auditives 100% santé dans le total des soins,tx-equipements-audio,2019-01-31,8.48,%,1 - regional
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faible émission,nb-habitants-zfe,2019-12-31,286677.0,habitants,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2017-09-30,84.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2017-06-30,64.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2017-12-31,65.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2018-03-31,73.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2018-06-30,85.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2018-09-30,86.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2020-09-30,142.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2020-06-30,123.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2020-03-31,111.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2019-12-31,112.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2019-09-30,81.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2019-06-30,81.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2019-03-31,78.0,ordonnances dans l'année,1 - regional
+Lutter contre les violences faites aux femmes,Nombre d’ordonnances de protection délivrées,nb-ordonnances-delivrees,2018-12-31,69.0,ordonnances dans l'année,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-06-30,3132.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-05-31,1977.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-04-30,1287.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-03-31,2158.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-02-29,2578.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-01-31,2726.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2020-07-31,3098.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-12-31,2202.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-10-31,2946.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-09-30,2926.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-08-31,2034.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-07-31,2842.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-06-30,2701.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-05-31,2654.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-11-30,2569.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-04-30,2820.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-03-31,2585.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-01-31,2469.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2019-02-28,2227.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-10-31,2961.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-11-30,2459.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-09-30,2678.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-08-31,1868.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-07-31,2858.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-05-31,2510.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-06-30,2969.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-04-30,2759.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-03-31,2590.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-02-28,2221.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-01-31,2708.0,bénéficiaires par mois,1 - regional
+Pacte d’ambition pour l’insertion par l’activité économique,Nombre de bénéficiaires en structures d’insertion par l’activité économique,nb-beneficiaires-siae,2018-12-31,2190.0,bénéficiaires par mois,1 - regional
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-08-31,5368747.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-03-31,6270173.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-07-31,5373390.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-06-30,5633082.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-05-31,5856884.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-04-30,5402226.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-09-30,5604236.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-02-28,5233294.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-10-31,5812961.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-01-31,6212339.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-11-30,5735506.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-03-31,6212105.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-01-31,6146927.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-09-30,5572873.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-10-31,5936668.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-08-31,5470370.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-07-31,5686769.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-06-30,5419459.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-05-31,5819336.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-04-30,5722508.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-02-28,5381896.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-01-31,6387402.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-12-31,6057763.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-11-30,6158125.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-10-31,6074323.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-09-30,5506210.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-08-31,5462695.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-07-31,5402838.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-06-30,5194387.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-05-31,5360375.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-04-30,5415126.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-03-31,5906721.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2018-02-28,5345280.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2017-12-31,5934661.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-11-30,5757763.0,heures de patrouille dans l'année,2 - national
+Renforcer la sécurité du quotidien,Nombre d’heures de patrouille de voie publique,nb-heures-patrouille,2019-12-31,5573982.0,heures de patrouille dans l'année,2 - national
+Améliorer la qualité du service rendu à l’usager,Taux de satisfaction des usagers à l’égard des services publics,tx-satisfaction-usagers-services-publics,2020-12-31,76.0,% de satisfaction,2 - national
+Améliorer la qualité du service rendu à l’usager,Taux de satisfaction des usagers à l’égard des services publics,tx-satisfaction-usagers-services-publics,2019-12-31,74.0,% de satisfaction,2 - national
+Améliorer la qualité du service rendu à l’usager,Taux de satisfaction des usagers à l’égard des services publics,tx-satisfaction-usagers-services-publics,2018-12-31,71.0,% de satisfaction,2 - national
+Améliorer la qualité du service rendu à l’usager,Taux de satisfaction des usagers à l’égard des services publics,tx-satisfaction-usagers-services-publics,2017-12-31,72.0,% de satisfaction,2 - national
+Améliorer la qualité du service rendu à l’usager,Part des lieux d’accueil du public qui publient leurs résultats,tx-transparence-resultats,2020-09-30,63.0,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-09-30,51.9,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-08-31,53.04,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-07-31,49.54,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-06-30,48.75,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-05-31,48.91,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-04-30,45.11,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-03-31,48.17,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-02-29,46.57,%,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-02-28,4390.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-03-31,6034.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-04-30,6328.0,utilisateurs,2 - national
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2020-07-31,205.0,amendes dressées dans l'année,2 - national
+Lutter contre les stupéfiants,Nombre d'amendes forfaitaires délictuelles dressées,nb-amendes-delictuelles-dressees,2020-06-30,205.0,amendes dressées dans l'année,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-10-31,113921.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-09-30,101848.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-08-31,89479.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-07-31,81069.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-06-30,72395.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-05-31,66154.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-04-30,62826.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-03-31,59608.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-02-29,55133.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2020-01-31,46871.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-12-31,43259.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-11-30,36609.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-10-31,28620.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-09-30,20945.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-08-31,14499.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-07-31,12671.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-06-30,6569.0,utilisateurs,2 - national
+Déployer le Pass culture,Nombre d’utilisateurs du Pass culture,nb-utilisateurs-pass-culture,2019-05-31,6461.0,utilisateurs,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2020-01-31,42.41,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-12-31,35.46,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-11-30,37.17,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-10-31,37.6,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-09-30,39.31,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-08-31,40.41,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-07-31,38.57,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-06-30,37.08,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-05-31,36.43,%,2 - national
+"Proposer une offre de lunettes, appareils auditifs et prothèses dentaires remboursée à 100%",Part des équipements/soins 100% santé dans le total des soins dentaire,tx-equipements-dentaire,2019-04-30,26.08,%,2 - national
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,2020-09-30,4.3,mois de traitement,2 - national
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,2019-12-31,4.7,mois de traitement,2 - national
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,2018-12-31,4.1,mois de traitement,2 - national
+Simplifier l’accès aux droits des personnes handicapées,Durée moyenne de traitement pour les demandes d’allocation adulte handicapé,duree-moyenne-traitement-demandes-allocation-adulte-handicape,2017-12-31,4.3,mois de traitement,2 - national
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2017-09-30,26.0,% de déploiement,2 - national
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2017-06-30,24.0,% de déploiement,2 - national
+Assurer une bonne couverture en internet fixe et en téléphonie mobile pour tous les Français d'ici 2022,Taux de déploiement de la fibre,taux-deploiement-fibre,2017-03-31,22.0,% de déploiement,2 - national
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faible émission,nb-habitants-zfe,2018-12-31,2220445.0,habitants,2 - national
+Instaurer des zones à faibles émissions,Nombre d'habitants vivant à l'intérieur d'une zone à faible émission,nb-habitants-zfe,2017-12-31,2220445.0,habitants,2 - national
+Déployer Parcoursup ,Taux de réussite aux examens de licence 1,tx-reussite-examens,2018-10-31,44.0,% de réussite,2 - national

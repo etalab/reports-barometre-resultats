@@ -1,0 +1,6 @@
+jupyterlab
+ipywidget
+pandas
+fpdf
+plotly
+psutil
