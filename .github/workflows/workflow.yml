@@ -1,8 +1,8 @@
 name: Run-PDFReports-Notebook
 
-on:
-  schedule:
-    - cron: "0 0 1 * *"
+on: push
+#  schedule:
+#    - cron: "0 0 1 * *"
 
 jobs:
   workflow:
@@ -31,9 +31,9 @@ jobs:
           pip install papermill
 #          sudo apt-get install -y python3-ipykernel
       - name: Run notebook report-pdf-reg.ipynb
-        run: papermill report-pdf.ipynb report-pdf-reg.ipynb
+        run: papermill report-pdf-reg.ipynb report-pdf-reg.ipynb
       - name: Run notebook report-pdf-dep.ipynb
-        run: papermill report-pdf.ipynb report-pdf-dep.ipynb
+        run: papermill report-pdf-dep.ipynb report-pdf-dep.ipynb
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
