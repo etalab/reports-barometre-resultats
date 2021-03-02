@@ -29,7 +29,6 @@ jobs:
         run: |
           pip install -r requirements.txt
           pip install papermill
-#          sudo apt-get install -y python3-ipykernel
       - name: Run notebook report-pdf-reg.ipynb
         run: papermill report-pdf-reg.ipynb report-pdf-reg.ipynb
       - name: Run notebook report-pdf-dep.ipynb
