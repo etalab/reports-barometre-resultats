@@ -2,7 +2,7 @@ name: Run-PDFReports-Notebook
 
 on:
   schedule:
-    - cron: "0 17 20 * *"
+    - cron: "0 13 8 * *"
 
 jobs:
   workflow:
